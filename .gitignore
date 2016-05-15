@@ -1,2 +1,5 @@
-# Jekyll generated files
-book2/_site
+# Jekyll
+
+_site/
+.sass-cache/
+.jekyll-metadata
